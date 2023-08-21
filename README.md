@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCollado02
 - 👀 I’m interested in the use of AI in IoT, web devolopment, and small electronics
-- 🌱 I’m currently learning AI programming with Python and creating small devices with arduinos
+- 🌱 I’m currently working on making animatronic eyes with an Arduino Uno
 - 💞️ Not currently looking to collaborate at the moment.
 
 <!---
